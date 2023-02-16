@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1E1E1E"
-      }
+      },
+      "package": "com.tfellix19.firstreactnativeproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c4f0eef3-7708-475d-b606-4297f9e3f3f4"
+      }
     }
   }
 }
